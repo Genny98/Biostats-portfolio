@@ -6,7 +6,7 @@ I have a background in medical statistics and health data science.
 This portfolio showcases projects applying statistical methods and data science to public health and clinical data.
 
 ## Projects
-1. Survival Analysis of Hypertension Outcomes
+1. [Survival Analysis of Heart Failure Patients](./survival-analysis)
 2. Logistic Regression: Predicting Diabetes Risk
 3. Negative Binomial Regression: Hospital Visits
 4. Exploratory Data Analysis of WHO Health Dataset
